@@ -1,4 +1,5 @@
 fnFindMaxMin(int.MinValue, int.MaxValue);
+
 it's a function the comare two numbers and return the maximum number and minimum number, without using built in functions 
 
 
